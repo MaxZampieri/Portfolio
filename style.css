@@ -96,7 +96,7 @@ header {
     color: #fff;
     text-shadow: .2rem .3rem 2px rgba(0,0,0,.4);
     font-size: 2.5rem;
-    margin-bottom: 2rem;
+    margin-bottom: 4rem;
     opacity: 0;
     animation: moveBanner 1s 0.7s forwards;
 }
